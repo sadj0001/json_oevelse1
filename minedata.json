@@ -1,0 +1,53 @@
+{
+  "personer": [
+    {
+      "navne": {
+        "fornavn": "Clara",
+        "efternavn": "Ryehauge"
+      },
+
+      "alder": 22,
+      "studerende": true,
+      "interesser": ["mad", "rejser", "musik"],
+      "adresse": {
+        "vej": "Hamletsgade",
+        "by": "København V",
+        "postnummer": 2200
+      },
+      "fødselsdato": "2002-09-02"
+    },
+    {
+      "navne": {
+        "fornavn": "Astrid",
+        "efternavn": "Christensen"
+      },
+
+      "alder": 24,
+      "studerende": true,
+      "interesser": ["Design", "Rejser", "Kreativitet"],
+      "adresse": {
+        "vej": "Gåseholmvej 15",
+        "by": "Herlev",
+        "postnummer": 2730
+      },
+      "fødselsdato": "2000-11-12"
+    },
+
+    {
+      "navne": {
+        "fornavn": "Sara",
+        "efternavn": "Djurisic"
+      },
+
+      "alder": 22,
+      "studerende": true,
+      "interesser": ["håndbold", "medier", "mad"],
+      "adresse": {
+        "vej": "Støberigade 8",
+        "by": "København SV",
+        "postnummer": 1450
+      },
+      "fødselsdato": "2002-10-04"
+    }
+  ]
+}
