@@ -64,21 +64,6 @@
         "postnummer": 2200
       },
       "fødselsdato": "1998-08-23"
-    },
-    {
-      "navne": {
-        "fornavn": "Alberte",
-        "efternavn": "Remmer"
-      },
-      "alder": 27,
-      "studerende": true,
-      "interesser": ["mad"],
-      "adresse": {
-        "vej": "Refshalevej 161D",
-        "by": "København K",
-        "postnummer": 1432
-      },
-      "fødselsdato": "02-09-1997"
     }
   ]
 }
