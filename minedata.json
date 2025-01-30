@@ -48,6 +48,22 @@
         "postnummer": 1450
       },
       "fødselsdato": "2002-10-04"
+    },
+
+    {
+      "navne": {
+        "fornavn": "Pauline",
+        "efternavn": "Skaanild"
+      },
+      "alder": 26,
+      "studerende": true,
+      "interesser": ["Musik", "Design", "Fashion"],
+      "adresse": {
+        "vej": "Fælledvej 22C",
+        "by": "København N",
+        "postnummer": 2200
+      },
+      "fødselsdato": "1998-08-23"
     }
   ]
 }
